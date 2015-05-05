@@ -60,7 +60,7 @@
     }
   ],
   "Blueprints": {
-    "blueprint_name": "multi-node-hdfs-yarn",
+    "blueprint_name": "multi-node-si",
     "stack_name": "HDP",
     "stack_version": "2.2"
   }
