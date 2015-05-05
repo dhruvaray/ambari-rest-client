@@ -14,6 +14,9 @@
           "name": "NAMENODE"
         },
         {
+          "name": "PIG"
+        },
+        {
           "name": "SECONDARY_NAMENODE"
         },
         {
